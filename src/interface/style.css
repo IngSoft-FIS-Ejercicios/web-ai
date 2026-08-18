@@ -1,0 +1,16 @@
+.navbar {
+  margin-bottom: 40px;
+  background-color: rgba(237, 237, 237, 0.95);
+}
+
+#add-songs-image {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+
+.error-container {
+  position: absolute;
+  bottom: 0;
+  right: 20px;
+}
