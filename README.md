@@ -46,13 +46,13 @@ npm run dev
 
 8. Agrega el campo Año al formulario únicamente desde la interfaz de usuario. No es necesario que sea un campo obligatorio.
 
-### 1.5 Debuggeando con breakpoints.
+### 1.5 Debuggeando con breakpoints en DevTools.
 
-9. Agrega un breakpoint en el método `addSong`, en la línea donde se encuentra el siguiente fragmento de código: `this._titulo = trimmed;`. Ejecuta la aplicación desde el modo Debug (que se encuentra en la pestaña de Run and Debug de VSCode). Agrega una canción a la lista y observa el comportamiento del debugger. ¿Qué valor tiene la variable `trimmed` al llegar al breakpoint? 
+9. Utilizando DevTools, agrega un breakpoint en el método `set titulo` de la clase `Song`. Deberás agregarlo en la línea donde se encuentra el siguiente fragmento de código: `this._titulo = trimmed;`. Ejecuta la aplicación desde el navegador y agrega una nueva canción. ¿Qué valor tiene la variable `trimmed` al llegar al breakpoint? ¿Para qué puede servir esta funcionalidad en métodos más complejos?.
 
 ### Parte 2: Intro a IA.
 
 10. Utiliza GitHub Copilot en modo agente para generar una funcionalidad que permita marcar una canción de la lista como favorita. Vuelve a ejecutar la aplicación una vez terminado el trabajo de la IA. Evalúa los resultados (tanto el comportamiento de la funcionalidad como el código generado).
 
-
-Links a buenas practicas de ia, pasos para inicializar/instalar copilot. más paso a paso de la tarea de desarrollo en la parte de IA
+## Referencias y recursos útiles:
+- [DevTools]
