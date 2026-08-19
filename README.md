@@ -52,7 +52,10 @@ npm run dev
 
 ### Parte 2: Intro a IA.
 
-10. Utiliza GitHub Copilot en modo agente para generar una funcionalidad que permita marcar una canción de la lista como favorita. Vuelve a ejecutar la aplicación una vez terminado el trabajo de la IA. Evalúa los resultados (tanto el comportamiento de la funcionalidad como el código generado).
+10. Verifica que puedas utilizar GitHub Copilot en modo chat en VSCode. En caso de que no, sigue lo siguientes pasos: [Configuración Copilot](https://code.visualstudio.com/docs/setup/copilot)
+11. Utiliza GitHub Copilot en modo agente para generar una funcionalidad que permita marcar una canción de la lista como favorita. Vuelve a ejecutar la aplicación una vez terminado el trabajo de la IA. Evalúa los resultados (tanto el comportamiento de la funcionalidad como el código generado).
 
 ## Referencias y recursos útiles:
-- [DevTools]
+- [DevTools](https://developer.chrome.com/docs/devtools/overview?hl=es-419)
+- [Breakpoints - DevTools](https://developer.chrome.com/docs/devtools/overview?hl=es-419#sources)
+- [Introducción a Copilot](https://docs.github.com/en/copilot/get-started/quickstart)
